@@ -1,0 +1,82 @@
+Major,ID,Student,Matched Advisor,Rank,First Choice,Second Choice,Third Choice
+BMB,20016144,Ethan Myer,Alicia McGhee,2.0,Kara Cerveny,Alicia McGhee,Shivani Ahuja
+BMB,20016580,Tommy Yoon,Anna Ritz,1.0,Anna Ritz,Derek Applewhite,Kelly Chacón
+BMB,20015659,Ella Lewis,Danielle Cass,1.0,Danielle Cass,Keith Karoly,Kelly Chacón
+BMB,20013706,Alex Tait,Danielle Cass,1.0,Danielle Cass,Alicia McGhee,Derek Applewhite
+BMB,20017919,Emilie Badener,Danielle Cass,1.0,Danielle Cass,Derek Applewhite,Jay Mellies
+BMB,20018379,Ali Pardini,Derek Applewhite,1.0,Derek Applewhite,Danielle Cass,Kara Cerveny
+BMB,20015044,Shota Wetlesen,Gonzalo Campillo-Alvarado,1.0,Gonzalo Campillo-Alvarado,Jesus Daniel Loya,Erik Zornik
+BMB,20019682,Johnny Stoehr,Gonzalo Campillo-Alvarado,1.0,Gonzalo Campillo-Alvarado,Jay Mellies,Danielle Cass
+BMB,20007987,Wenqiu Yu,Jay Mellies,1.0,Jay Mellies,Derek Applewhite,Shivani Ahuja
+BMB,20013417,Mack Swiecki,Kelly Chacón,1.0,Kelly Chacón,Jay Mellies,Shivani Ahuja
+BMB,20017487,Henry Jacques,Kelly Chacón,2.0,Jay Mellies,Kelly Chacón,Shivani Ahuja
+BMB,20014189,Amelie Andreas,Shivani Ahuja,1.0,Shivani Ahuja,Jeremy Coate,Anna Ritz
+BMB,20015461,Kyle Rowan,Shivani Ahuja,1.0,Shivani Ahuja,Derek Applewhite,Kelly Chacón
+BMB,20017513,Keiki Miller,Shivani Ahuja,1.0,Shivani Ahuja,Derek Applewhite,Kelly Chacón
+BMB,20013959,Vilma Kodyte,Shivani Ahuja,1.0,Shivani Ahuja,Derek Applewhite,Jay Mellies
+BMB,O63166,Sumner Walters,Thomas Dannenhoffer-Lafage,1.0,Thomas Dannenhoffer-Lafage,Gonzalo Campillo-Alvarado,Anna Ritz
+Bio,20007920,Harper Lethin ,Aaron Ramirez,2.0,Jay Mellies,Aaron Ramirez,Keith Karoly
+Bio,20014478,Naia Marten,Aaron Ramirez,1.0,Aaron Ramirez,Jay Mellies,Hannah Prather
+Bio,20015415,Sofia Pardo,Aaron Ramirez,1.0,Aaron Ramirez,Hannah Prather,Sam Fey
+Bio,20033470,Caroline Spiggle ,Anna Ritz,1.0,Anna Ritz,Derek Applewhite,Sarah Schaack
+Bio,20018428,Max Richardson,Derek Applewhite,1.0,Derek Applewhite,Erik Zornik,Kara Cerveny
+Bio,20013750,Anna Godfrey,Derek Applewhite,1.0,Derek Applewhite,Erik Zornik,Keith Karoly
+Bio,20014348,Isabelle Laun,Erik Zornik,1.0,Erik Zornik,Jeremy Coate,Suzy Renn
+Bio,20014853,Siraj Faruqee,Erik Zornik,1.0,Erik Zornik,Sam Fey,Aaron Ramirez
+Bio,20014989,Jackson Pillifant,Hannah Prather,2.0,Kara Cerveny,Hannah Prather,Jeremy Coate
+Bio,20013976,Misha Ostrovsky,Hannah Prather,1.0,Hannah Prather,Sam Fey,Jeremy Coate
+Bio,20013932,Lily Simon,Hannah Prather,1.0,Hannah Prather,Aaron Ramirez,Sam Fey
+Bio,C42876,Hannah Kaba,Hannah Prather,1.0,Hannah Prather,Aaron Ramirez,Sam Fey
+Bio,20014417,Mat (Yergo?),Jay Mellies,1.0,Jay Mellies,Erik Zornik,Derek Applewhite
+Bio,20014386,Josie Bicknell,Jay Mellies,1.0,Jay Mellies,Jeremy Coate,Aaron Ramirez
+Bio,20028145,Lee Goldenberg,Jay Mellies,1.0,Jay Mellies,Derek Applewhite,Sarah Schaack
+Bio,A56026,Gustavus Compton,Jeremy Coate,1.0,Jeremy Coate,Aaron Ramirez,Hannah Prather
+Bio,20015395,Ainsley Norman,Jeremy Coate,1.0,Jeremy Coate,Anna Ritz,Kara Cerveny
+Bio,20013800,Sean Brown,Kara Cerveny,1.0,Kara Cerveny,Derek Applewhite,Erik Zornik
+Bio,20013621,Emma Campbell,Sam Fey,1.0,Sam Fey,Aaron Ramirez,Keith Karoly
+Bio,20014297,Asher Marvy,Sam Fey,1.0,Sam Fey,Hannah Prather,Aaron Ramirez
+Bio,20014706,Lauren Nicolaysen,Sarah Schaack,1.0,Sarah Schaack,Jay Mellies,Derek Applewhite
+Bio,20014938,Maxine Ludington,Sarah Schaack,1.0,Sarah Schaack,Anna Ritz,Derek Applewhite
+Bio,20013819,Jules Dubel,Sarah Schaack,1.0,Sarah Schaack,Jeremy Coate,Erik Zornik
+Bio,20015521,Josh Stueckle,Suzy Renn,1.0,Suzy Renn,Erik Zornik,Sarah Schaack
+Chem,20005915,Andy Braham,Bobby O'Brien,1.0,Bobby O'Brien,Alicia McGhee,Mir Bowring
+Chem,20014211,Grey Schneider,Gonzalo Campillo-Alvarado,1.0,Gonzalo Campillo-Alvarado,Danielle Cass,Nicole James
+Chem,20014822,Casandrah Catterton,Gonzalo Campillo-Alvarado,1.0,Gonzalo Campillo-Alvarado,Mir Bowring,Kelly Chacón
+Chem,20013731,Deepika Shingwekar,Jesus Daniel Loya,1.0,Jesus Daniel Loya,Alicia McGhee,Gonzalo Campillo-Alvarado
+Chem,20016079,Sarah Ellis,Mir Bowring,1.0,Mir Bowring,Dan Gerrity,Gonzalo Campillo-Alvarado
+Neuro,20016750,Christian Selden,Anna Ritz,2.0,Michael Pitts,Anna Ritz,Sarah Schaack
+Neuro,20015033,Zaida Vinaimont,Anna Ritz,1.0,Anna Ritz,Kara Cerveny,Michael Pitts
+Neuro,20010210,Maxwell Bennett,Derek Applewhite,1.0,Derek Applewhite,Michael Pitts,Anna Ritz
+Neuro,20015577,Kaelin Wulf,Erik Zornik,2.0,Kara Cerveny,Erik Zornik,Matthew Ford
+Neuro,20016918,Sarah Darcy,Erik Zornik,2.0,Jennifer Corpus,Erik Zornik,Matthew Ford
+Neuro,20016670,Asia Guzman,Kara Cerveny,1.0,Kara Cerveny,Matthew Ford,Kris Anderson
+Neuro,20013787,Una Miagkov,Kara Cerveny,1.0,Kara Cerveny,Matthew Ford,Jay Mellies
+Neuro,20014832,Rainie Codding,Kara Cerveny,1.0,Kara Cerveny,Matthew Ford,Greg Jensen
+Neuro,20015916,Brandon Bao Truong,Matthew Ford,1.0,Matthew Ford,Michael Pitts,Erik Zornik
+Neuro,20017072,Emerson Schimmel,Matthew Ford,1.0,Matthew Ford,Kris Anderson,Erik Zornik
+Neuro,20015439,Avanthika Rajendran ,Matthew Ford,1.0,Matthew Ford,Kris Anderson,Erik Zornik
+Neuro,20008291,Mads Osler,Michael Pitts,1.0,Michael Pitts,Matthew Ford,Derek Applewhite
+Neuro,20015268,Mia Huynh,Michael Pitts,2.0,Matthew Ford,Michael Pitts,Sarah Schaack
+Neuro,20016493,Talula Knight,Sarah Schaack,2.0,Kara Cerveny,Sarah Schaack,Matthew Ford
+Neuro,20014290,Helena Dobiecka,Suzy Renn,1.0,Suzy Renn,Michael Pitts,Matthew Ford
+Psych,20015369,Leslie Monroy,Greg Jensen,1.0,Greg Jensen,Vasiliy Safin,Kris Anderson
+Psych,20018193,Lena Kassin,Greg Jensen,2.0,Jennifer Corpus,Greg Jensen,Kris Anderson
+Psych,20014010,Carver Buchanan,Greg Jensen,2.0,Michael Pitts,Greg Jensen,Kris Anderson
+Psych,20013464,Guido Gonzalez,Jennifer Corpus,1.0,Jennifer Corpus,Kris Anderson,Matthew Ford
+Psych,20014511,Julie Stewart,Jennifer Corpus,1.0,Jennifer Corpus,Kathy Oleson,Michael Pitts
+Psych,20015560,Rhiannon Weakley,Jennifer Corpus,1.0,Jennifer Corpus,Kris Anderson,Vasiliy Safin
+Psych,S64535,Atlas Truxaw,Jennifer Corpus,1.0,Jennifer Corpus,Kris Anderson,Greg Jensen
+Psych,20014722,Olivia Ramberg-Gomez,Jennifer Corpus,1.0,Jennifer Corpus,Kathy Oleson,Vasiliy Safin
+Psych,20015716,Iris Zhang,Kathy Oleson,1.0,Kathy Oleson,Jennifer Corpus,Michael Pitts
+Psych,C41349,Hailey Fazio,Kris Anderson,1.0,Kris Anderson,Jennifer Corpus,Greg Jensen
+Psych,30038408,Harlan Quintana,Kris Anderson,3.0,-,-,Kris Anderson
+Psych,20014199,Alyssa Gorkin,Kris Anderson,1.0,Kris Anderson,Matthew Ford,Jennifer Corpus
+Psych,20009472,Emma Dillon,Kris Anderson,1.0,Kris Anderson,Jennifer Corpus,Michael Pitts
+Psych,20015097,Tori Boldt,Kris Anderson,2.0,Jennifer Corpus,Kris Anderson,Kathy Oleson
+Psych,20015066,Angellina,Matthew Ford,1.0,Matthew Ford,Kris Anderson,Michael Pitts
+Psych,20015849,Ian Roberts,Michael Pitts,1.0,Michael Pitts,Jennifer Corpus,Kris Anderson
+Psych,20008399,Dylan Mabbutt,Michael Pitts,1.0,Michael Pitts,Jennifer Corpus,Kris Anderson
+Psych,20025066,Xin Yi (Tina) Guo,Michael Pitts,2.0,Kathy Oleson,Michael Pitts,Jennifer Corpus
+Psych,20015728,Kayla Jackson,Vasiliy Safin,1.0,Vasiliy Safin,Jennifer Corpus,Kris Anderson
+Psych,20014868,Aaron Gitin,Vasiliy Safin,2.0,Kathy Oleson,Vasiliy Safin,Greg Jensen
+Psych,20015176,Teresa Elliott,Vasiliy Safin,1.0,Vasiliy Safin,Jennifer Corpus,Kris Anderson

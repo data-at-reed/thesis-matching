@@ -1,0 +1,20 @@
+Major,ID,Student,Matched Advisor,Rank,First Choice,Second Choice,Third Choice,Fourth Choice
+BMB,1,A,Aaron Ramirez,1,Aaron Ramirez,Danielle Cass,Mir Bowring,-
+BMB,2,B,Anna Ritz,1,Anna Ritz,Gonzalo Campillo-Alvarado,Kelly Chacón,-
+Bio,3,C,Aaron Ramirez,1,Aaron Ramirez,Erik Zornik,Anna Ritz,-
+Bio,4,D,Aaron Ramirez,1,Aaron Ramirez,Anna Ritz,Derek Applewhite,-
+Bio,5,E,Anna Ritz,3,Anna Ritz,Hannah Prather,Erik Zornik,-
+Bio,6,F,Derek Applewhite,1,Derek Applewhite,Erik Zornik,Hannah Prather,-
+Bio,7,G,Jay Mellies,1,Jay Mellies,Aaron Ramirez,Hannah Prather,-
+Bio,8,H,Kara Cerveny,1,Kara Cerveny,Keith Karoly,Jeremy Coate,-
+Bio,9,I,Suzy Renn,1,Suzy Renn,Sam Fey,Jeremy Coate,-
+Chem,10,J,Dan Gerrity,1,Dan Gerrity,Lynne Gratz,Alicia McGhee,-
+Chem,11,K,Danielle Cass,1,Danielle Cass,Alicia McGhee,Thomas Dannenhoffer-Lafage,-
+Chem,12,L,Lynne Gratz,2,Kelly Chacón,Lynne Gratz,Mir Bowring,-
+Neuro,13,M,Jay Mellies,1,Jay Mellies,Kara Cerveny,Leia Harper,Kris Anderson
+Neuro,14,N,Michael Pitts,1,Michael Pitts,Suzy Renn,Leia Harper,Erik Zornik
+Neuro,15,O,Vasiliy Safin,1,Vasiliy Safin,Sam Fey,Keith Karoly,Greg Jensen
+Psych,16,P,Greg Jensen,1,Greg Jensen,Jennifer Corpus,Vasiliy Safin,-
+Psych,17,Q,Greg Jensen,1,Greg Jensen,Leia Harper,Michael Pitts,-
+Psych,18,R,Michael Pitts,1,Michael Pitts,Greg Jensen,Vasiliy Safin,-
+Psych,19,S,Vasiliy Safin,1,Vasiliy Safin,Kris Anderson,Michael Pitts,-

@@ -1,0 +1,14 @@
+Student,ID,Description,Professor,choice,First Choice,Professor Rank,Rank 1,Rank 2,Rank 3
+Charlie Dog,K9,woof woof bark,Chuma,1.0,,1.0,Chuma,Kris,Earnest
+a,K10,woof woof bark,Earnest,1.0,,1.0,Earnest,Chuma,Enriqueta
+b,K11,woof woof bark,Enriqueta,1.0,,1.0,Enriqueta,Greg,Jennifer
+c,K12,woof woof bark,Kris,1.0,,1.0,Kris,Jennifer,Keven
+d,K13,woof woof bark,Michael ,1.0,,1.0,Kris,Leia,Chuma
+e,K14,woof woof bark,Jennifer,1.0,,1.0,Jennifer,Keven,Tim
+f,K15,woof woof bark,Greg,1.0,,1.0,Greg,Jennifer,Enriqueta
+g,K16,woof woof bark,Earnest,2.0,,2.0,Chuma,Earnest,Chuma
+h,K17,woof woof bark,Chuma,1.0,,1.0,Chuma,Greg,Keven
+i,K18,woof woof bark,Kris,2.0,,2.0,Chuma,Kris,Leia
+j,K19,woof woof bark,Leia,2.0,,2.0,Chuma,Leia,Michael 
+k,K20,woof woof bark,Leia,1.0,,1.0,Leia,Chuma,Chuma
+l,K21,woof woof bark,Tim,1.0,Tim,1.0,Tim,Keven,Chuma
